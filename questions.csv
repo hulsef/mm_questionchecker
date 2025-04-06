@@ -1,0 +1,719 @@
+id,paper_id,question_no,question_part,question,diagram,diagram_url,diagram_desc,topic,marks_total,created_at,updated_at
+2005,p_425603950984d2039,1,a,"Circle the answer to $150 \div 5$ {list:1}",0,NULL,NULL,201,1,"2025-04-01 19:20:04","2025-04-01 19:20:04"
+2006,p_425603950984d2039,1,b,"Circle the answer to $5-7$ {list:2}",0,NULL,NULL,191,1,"2025-04-01 19:20:04","2025-04-01 19:20:04"
+2007,p_425603950984d2039,1,c,"Circle the answer to $-3 \times 3$ {list:3}",0,NULL,NULL,236,1,"2025-04-01 19:20:04","2025-04-01 19:20:04"
+2008,p_425603950984d2039,2,NULL,"$P$ is double $r$.
+Circle the correct formula. {list:4}",0,NULL,NULL,215,1,"2025-04-01 19:20:04","2025-04-01 19:20:04"
+2009,p_425603950984d2039,3,NULL,"By rounding each number to the nearest 10, estimate the value of $31 \times 18$ {formula:1}",0,NULL,NULL,222,3,"2025-04-01 19:20:04","2025-04-01 19:20:04"
+2010,p_425603950984d2039,4,NULL,"In this isosceles triangle,
+$AB = AC$ {diagram:1}
+The perimeter of the triangle is $22$ cm
+Work out the length of $AB$.",1,NULL,"An isosceles triangle labeled A, B, and C. Side BC is 4cm, sides AB and AC are equal but not labeled.",237,3,"2025-04-01 19:20:04","2025-04-01 19:20:04"
+2011,p_425603950984d2039,5,NULL,"After school, Priya will
+• go running ($R$)
+• do her homework ($H$)
+• play a video game ($V$).
+Complete the list of the $6$ possible orders in which she could do them. {list:5}",0,NULL,NULL,238,2,"2025-04-01 19:20:04","2025-04-01 19:20:04"
+2012,p_425603950984d2039,6,a,"Which statement is correct?
+Tick $\text{one}$ box. {list:6}
+Show working to support your answer.",0,NULL,NULL,239,2,"2025-04-01 19:20:04","2025-04-01 19:20:04"
+2013,p_425603950984d2039,6,b,"Work out $60 \div 2 + 4$ {formula:2}",0,NULL,NULL,227,2,"2025-04-01 19:20:04","2025-04-01 19:20:04"
+2014,p_425603950984d2039,7,NULL,"{table:1}
+Leah buys $400$ grams of cereal and $250$ grams of pasta.
+Work out the $\text{total}$ cost in £ {formula:3}",0,NULL,NULL,196,4,"2025-04-01 19:20:04","2025-04-01 19:20:04"
+2015,p_425603950984d2039,8,a,"For a set of five numbers,
+the mode is $8$ {formula:4}
+the median is $12$ {formula:5}
+Work out $\text{one}$ possible set of five numbers. {list:7}",0,NULL,NULL,240,2,"2025-04-01 19:20:04","2025-04-01 19:20:04"
+2016,p_425603950984d2039,8,b,"Here are the heights, in centimetres, of some children.
+$98$ {formula:6} $103$ {formula:7} $91$ {formula:8} $85$ {formula:9} $159$ {formula:10} $102$ {formula:11} $91$ {formula:12}
+Which height is an outlier?",0,NULL,NULL,240,1,"2025-04-01 19:20:04","2025-04-01 19:20:04"
+2017,p_425603950984d2039,9,NULL,"Shona has $14$ dresses.
+$50\%$ {formula:13} of these dresses are red.
+She gives $5$ of her red dresses to a charity shop.
+She buys $1$ new red dress.
+What percentage of the dresses she has now are red?",0,NULL,NULL,204,4,"2025-04-01 19:20:05","2025-04-01 19:20:05"
+2018,p_425603950984d2039,10,a,"Here is a triangle. {diagram:2}
+Work out $\frac{\text{length of shortest side}}{\text{length of longest side}}$ {formula:14}
+Give your answer as a fraction in its simplest form.",1,NULL,"A triangle with sides labeled 40cm, 1.2m and 1m. The triangle is not drawn accurately.",208,2,"2025-04-01 19:20:05","2025-04-01 19:20:05"
+2019,p_425603950984d2039,10,b,"Here is a different triangle. {diagram:3}
+$x = 3y$ {formula:15}
+Work out the size of angle $y$.",1,NULL,"A triangle with internal angles x, y, and 112 degrees. The triangle is not drawn accurately.",241,3,"2025-04-01 19:20:05","2025-04-01 19:20:05"
+2020,p_425603950984d2039,11,NULL,"Companies $A$ and $B$ sell insurance for mobile phones.
+The table shows the $\text{monthly}$ costs for two types of cover, Damage and Loss. {table:2}",0,NULL,NULL,196,1,"2025-04-01 19:20:05","2025-04-01 19:20:05"
+2021,p_425603950984d2039,11,a,"Work out the difference in monthly cost for the two types of cover with Company $A$.",0,NULL,NULL,193,2,"2025-04-01 19:20:05","2025-04-01 19:20:05"
+2022,p_425603950984d2039,11,b,"Ben wants Damage cover with Company $B$.
+How much in total will he pay for one year?",0,NULL,NULL,202,3,"2025-04-01 19:20:05","2025-04-01 19:20:05"
+2023,p_425603950984d2039,12,NULL,"Work out $\frac{11}{18} - \frac{1}{3}$ {formula:16}",0,NULL,NULL,220,2,"2025-04-01 19:20:05","2025-04-01 19:20:05"
+2024,p_425603950984d2039,13,a,"The term-to-term rule for a sequence is
+multiply by $2$ {formula:17}
+The $3$rd term of the sequence is $46$ {formula:18}
+Work out the $1$st term.
+Give your answer as a decimal.",0,NULL,NULL,242,3,"2025-04-01 19:20:05","2025-04-01 19:20:05"
+2025,p_425603950984d2039,13,b,"The term-to-term rule for a different sequence is
+subtract $k$ {formula:19}
+The $1$st term is $34$ {formula:20}
+The $4$th term is $10$ {formula:21}
+Work out the value of $k$.",0,NULL,NULL,242,3,"2025-04-01 19:20:05","2025-04-01 19:20:05"
+2026,p_425603950984d2039,14,NULL,"{diagram:4}
+Work out the vector that translates shape $A$ to shape $B$.",1,NULL,"A graph with shape A drawn from coordinate (2,4) to (5,4) and ending at (5,5). Shape B is drawn from coordinate (9,2) to (12,2) and ending at (12,3).",243,2,"2025-04-01 19:20:05","2025-04-01 19:20:05"
+2027,p_425603950984d2039,15,NULL,"In a bag there are only red discs, blue discs and green discs.
+There are $10$ red discs.
+When one disc is picked at random
+$P(red) = \frac{1}{8}$ {formula:22}
+$P(blue) = \frac{2}{5}$ {formula:23}
+How many green discs are in the bag?",0,NULL,NULL,198,4,"2025-04-01 19:20:05","2025-04-01 19:20:05"
+2028,p_425603950984d2039,16,NULL,"Here is the graph of $y = 7 - 3x$ {diagram:5}
+Draw the graph of $y = 2x + 1$ {formula:24} on the grid
+and then
+work out an approximate solution to $7- 3x = 2x + 1$ {formula:25}",1,NULL,"A graph drawn from y = 8 to x = 3, showing the equation y = 7 - 3x.",217,3,"2025-04-01 19:20:05","2025-04-01 19:20:05"
+2029,p_425603950984d2039,17,NULL,"Part of this circle is shaded. {diagram:6}
+Circle the name of the shaded part. {list:8}",1,NULL,"A part of a circle is shaded.",244,1,"2025-04-01 19:20:05","2025-04-01 19:20:05"
+2030,p_425603950984d2039,18,NULL,"Work out $80000000 \div 200$ {formula:26}
+Give your answer in standard form.",0,NULL,NULL,211,2,"2025-04-01 19:20:05","2025-04-01 19:20:05"
+2031,p_425603950984d2039,19,a,"Work out $\frac{3^{12}}{3^7}$ {formula:27}
+Give your answer as a whole number.",0,NULL,NULL,214,2,"2025-04-01 19:20:05","2025-04-01 19:20:05"
+2032,p_425603950984d2039,19,b,"Simplify $8 \times 2^6 \times 2^4$ {formula:28}
+Give your answer as a power of 2",0,NULL,NULL,214,2,"2025-04-01 19:20:05","2025-04-01 19:20:05"
+2033,p_425603950984d2039,20,NULL,"In a group of $98$ students
+$25$ study both Art and French
+$10$ study Art but do not study French
+$41$ study French.
+Joel draws this Venn diagram to represent the information.
+§ = the group of $98$ students
+$A$ = the students who study Art
+$F$ = the ",1,NULL,"A venn diagram showing the number of students studying french and art. The student population is not representative.",245,2,"2025-04-01 19:20:05","2025-04-01 19:20:05"
+2034,p_425603950984d2039,21,NULL,"Circle the letter of the possible sketch graph of $y = x^3 - 4$ {formula:29} {list:9}",0,NULL,NULL,246,1,"2025-04-01 19:20:05","2025-04-01 19:20:05"
+2035,p_425603950984d2039,22,NULL,"In a week, Samir is paid
+a basic hourly rate for the first $30$ hours worked
+an overtime hourly rate for any extra hours worked.
+The graph shows his pay for working up to $40$ hours in a week. {diagram:8}",1,NULL,"A graph showing hours worked vs pay. Hours worked are labelled from 0 to 40 and pay is labeled from 0 to 700.",217,1,"2025-04-01 19:20:05","2025-04-01 19:20:05"
+2036,p_425603950984d2039,23,NULL,"Work out the ratio $\text{basic hourly rate : overtime hourly rate}$ {formula:30}
+Give your answer in its simplest form.",0,NULL,NULL,196,3,"2025-04-01 19:20:05","2025-04-01 19:20:05"
+2037,p_425603950984d2039,23,a,"In each box, write a fraction less than $1$ to make a correct calculation. {formula:31}",0,NULL,NULL,247,1,"2025-04-01 19:20:05","2025-04-01 19:20:05"
+2038,p_425603950984d2039,23,b,"In each box, write a decimal less than $1$ to make a correct calculation.",0,NULL,NULL,194,1,"2025-04-01 19:20:05","2025-04-01 19:20:05"
+2039,p_425603950984d2039,24,NULL,"Use a ruler and compasses in this question.
+$ABCD$ represents a garden. {diagram:9}
+A tree is to be planted in the garden.
+The tree will be in the region that is closer to $AB$ than to $BC$.
+Label the region, $R$, where the tree could be planted.
+Sho",1,NULL,"Garden dimensions: A, B, C, and D.",248,3,"2025-04-01 19:20:05","2025-04-01 19:20:05"
+2040,p_425603950984d2039,25,NULL,"Here are two shapes, $P$ and $Q$.
+$P$ {diagram:10}
+$\frac{3}{4}$ {formula:32} of a circle, radius $20$ cm {formula:33}
+$Q$ {diagram:11}
+$\frac{1}{3}$ {formula:34} of a circle, radius $15$ cm {formula:35}
+How many times bigger is the area of $P$ than ",1,NULL,"Shape P is 3/4 of a circle with 20cm radius. Shape Q is 1/3 of a circle with 15cm radius. They are not drawn accurately.",216,4,"2025-04-01 19:20:05","2025-04-01 19:20:05"
+2041,p_425603950984d2039,26,NULL,"Solve $\frac{2w}{15} = \frac{4}{5}$ {formula:36}",0,NULL,NULL,190,2,"2025-04-01 19:20:05","2025-04-01 19:20:05"
+2042,p_425603950984d2039,27,NULL,"A solid has volume $300$ cm³ {formula:37} and density $2$ g/cm³ {formula:38}
+Circle the mass of the solid. {list:10}",0,NULL,NULL,219,1,"2025-04-01 19:20:05","2025-04-01 19:20:05"
+2043,p_425603950984d2039,28,NULL,"$x : y$ is $9 : 5$ {formula:39}
+Circle the value of $\frac{2x}{y}$ {formula:40} {list:11}",0,NULL,NULL,196,1,"2025-04-01 19:20:05","2025-04-01 19:20:05"
+2044,p_40ef71b0235bc2938,1,NULL,"Circle the decimal which has the same value as $\frac{3}{5}$",0,NULL,NULL,249,1,"2025-04-01 19:20:05","2025-04-01 19:20:05"
+2045,p_40ef71b0235bc2938,2,NULL,"How many millimetres are there in $7.5$ centimetres? Circle your answer.",0,NULL,NULL,219,1,"2025-04-01 19:20:05","2025-04-01 19:20:05"
+2046,p_40ef71b0235bc2938,3,NULL,"Which of these shapes has two lines of symmetry? Circle your answer.",0,NULL,NULL,203,1,"2025-04-01 19:20:05","2025-04-01 19:20:05"
+2047,p_40ef71b0235bc2938,4,NULL,"Circle the number that is $7$ less than $-12$",0,NULL,NULL,191,1,"2025-04-01 19:20:06","2025-04-01 19:20:06"
+2048,p_40ef71b0235bc2938,5,a,"Solve $x-3= 14$",0,NULL,NULL,190,1,"2025-04-01 19:20:06","2025-04-01 19:20:06"
+2049,p_40ef71b0235bc2938,5,b,"Solve $5y = 45$",0,NULL,NULL,190,1,"2025-04-01 19:20:06","2025-04-01 19:20:06"
+2050,p_40ef71b0235bc2938,5,c,"Solve $8+ w = 6$",0,NULL,NULL,190,1,"2025-04-01 19:20:06","2025-04-01 19:20:06"
+2051,p_40ef71b0235bc2938,6,a,"Work out $9174 \div 11$",0,NULL,NULL,201,2,"2025-04-01 19:20:06","2025-04-01 19:20:06"
+2052,p_40ef71b0235bc2938,6,b,"Work out $\frac{5}{6} + \frac{3}{7}$ Give your answer as a mixed number.",0,NULL,NULL,247,3,"2025-04-01 19:20:06","2025-04-01 19:20:06"
+2053,p_40ef71b0235bc2938,7,a,"Which score was the mode?",0,NULL,NULL,197,1,"2025-04-01 19:20:06","2025-04-01 19:20:06"
+2054,p_40ef71b0235bc2938,7,b,"There were $4$ judges.
+Each judge gave one score in each round. How many rounds were there?",0,NULL,NULL,240,3,"2025-04-01 19:20:06","2025-04-01 19:20:06"
+2055,p_40ef71b0235bc2938,8,NULL,"A library book was due to be returned on 27 September.
+It was actually returned on 14 October.
+There is a fine of 8p for every day the book is late. Work out the total fine.",0,NULL,NULL,193,3,"2025-04-01 19:20:06","2025-04-01 19:20:06"
+2056,p_40ef71b0235bc2938,9,gen,"In a game, three stars are hidden at random.
+Each star is behind a different square on this board.",1,NULL,"Diagram of grid with numbered rows and lettered columns.",238,1,"2025-04-01 19:20:06","2025-04-01 19:20:06"
+2057,p_40ef71b0235bc2938,9,a,"A square is chosen at random.
+What is the probability that there is a star behind it?",0,NULL,NULL,198,1,"2025-04-01 19:20:06","2025-04-01 19:20:06"
+2058,p_40ef71b0235bc2938,9,b,"In one game, the stars are behind three consecutive squares.
+The squares are in one row or one column.
+One of the squares is E2
+Write down all the possible pairs for the other two squares.",0,NULL,NULL,198,2,"2025-04-01 19:20:06","2025-04-01 19:20:06"
+2059,p_40ef71b0235bc2938,10,NULL,"Complete the table to show equivalent fractions and percentages.",0,NULL,NULL,250,3,"2025-04-01 19:20:06","2025-04-01 19:20:06"
+2060,p_40ef71b0235bc2938,11,a,"Cards in a pack are red or blue in the ratio
+red: blue = 2:3
+What fraction of the cards are red?
+Circle your answer.",0,NULL,NULL,209,1,"2025-04-01 19:20:06","2025-04-01 19:20:06"
+2061,p_40ef71b0235bc2938,11,b,"A different pack has $72$ cards.
+$\frac{5}{8}$ are yellow. Work out the number of yellow cards.",0,NULL,NULL,209,2,"2025-04-01 19:20:06","2025-04-01 19:20:06"
+2062,p_40ef71b0235bc2938,12,a,"How many edges are there on a square-based pyramid? Circle your answer.",0,NULL,NULL,248,1,"2025-04-01 19:20:06","2025-04-01 19:20:06"
+2063,p_40ef71b0235bc2938,12,b,"How many faces of a triangular prism are triangles? Circle your answer.",0,NULL,NULL,248,1,"2025-04-01 19:20:06","2025-04-01 19:20:06"
+2064,p_40ef71b0235bc2938,13,NULL,"A bus can be early, on time or late.
+The probability that the bus is early is $0.1$
+The probability that the bus is on time is $0.6$
+Work out the probability that the bus is late.",0,NULL,NULL,198,2,"2025-04-01 19:20:06","2025-04-01 19:20:06"
+2065,p_40ef71b0235bc2938,14,NULL,"On the grid, draw the graph of $x + y = 2$ for values of $x$ from $-3$ to $3$",0,NULL,NULL,217,2,"2025-04-01 19:20:06","2025-04-01 19:20:06"
+2066,p_40ef71b0235bc2938,15,NULL,"5% of a number is 31
+1% of the same number is 6.2
+Work out 13% of the number.",0,NULL,NULL,204,3,"2025-04-01 19:20:06","2025-04-01 19:20:06"
+2067,p_40ef71b0235bc2938,16,NULL,"Complete the grid so that when you
+multiply the three numbers in any column, row or diagonal the answer is 1",0,NULL,NULL,199,3,"2025-04-01 19:20:06","2025-04-01 19:20:06"
+2068,p_40ef71b0235bc2938,17,NULL,"A sequence has three terms.
+The term-to-term rule for the sequence is
+multiply by 8 and then add 11",0,NULL,NULL,242,1,"2025-04-01 19:20:06","2025-04-01 19:20:06"
+2069,p_40ef71b0235bc2938,17,a,"The first term of the sequence is $-1$
+Work out the third term.",0,NULL,NULL,242,2,"2025-04-01 19:20:06","2025-04-01 19:20:06"
+2070,p_40ef71b0235bc2938,17,b,"The order of the three terms is reversed to make a new sequence.
+Work out the term-to-term rule for this sequence.",0,NULL,NULL,242,1,"2025-04-01 19:20:06","2025-04-01 19:20:06"
+2071,p_40ef71b0235bc2938,18,NULL,"ABCD is a quadrilateral.
+Sides are extended as shown.",1,NULL,"Diagram of a quadrilateral with sides extended to make exterior angles.  Angle A is labeled 70 degrees, angle C is labeled 120 degrees, angle B is labeled x.",241,3,"2025-04-01 19:20:06","2025-04-01 19:20:06"
+2072,p_40ef71b0235bc2938,19,NULL,"Use $2$ gallons = $9$ litres to convert $17$ gallons into litres.",0,NULL,NULL,219,3,"2025-04-01 19:20:06","2025-04-01 19:20:06"
+2073,p_40ef71b0235bc2938,20,NULL,"n is an odd number.
+p is a prime number.
+In each part write down possible values of $n$ and $p$ so that",0,NULL,NULL,251,1,"2025-04-01 19:20:06","2025-04-01 19:20:06"
+2074,p_40ef71b0235bc2938,20,a,"$n + p$ is a square number.",0,NULL,NULL,252,1,"2025-04-01 19:20:06","2025-04-01 19:20:06"
+2075,p_40ef71b0235bc2938,20,b,"$np$ is a square number.",0,NULL,NULL,252,1,"2025-04-01 19:20:06","2025-04-01 19:20:06"
+2076,p_40ef71b0235bc2938,21,a,"Joe wants to bisect angle $BCD$.
+
+Here is his method.
+Use a pair of compasses to draw arcs of the same radius from $B$ and $D$.
+Draw a straight line from $C$ through the intersection of the arcs.",1,NULL,"Diagram of an angle with incorrect arcs drawn for bisection.",189,1,"2025-04-01 19:20:06","2025-04-01 19:20:06"
+2077,p_40ef71b0235bc2938,21,b,"Kay wants to show all the points 3 km from point $P$.",1,NULL,"Diagram with a point P marked and square drawn around it.",207,1,"2025-04-01 19:20:06","2025-04-01 19:20:06"
+2078,p_40ef71b0235bc2938,21,c,"Here is a rectangle.
+Using a pair of compasses and a straight edge, construct one line of symmetry.
+Show clearly your construction arcs.",1,NULL,"Diagram of a rectangle",203,2,"2025-04-01 19:20:07","2025-04-01 19:20:07"
+2079,p_40ef71b0235bc2938,22,NULL,"$x:y = 7:4$
+$x + y = 88$
+Work out the value of $x - y$",0,NULL,NULL,196,3,"2025-04-01 19:20:07","2025-04-01 19:20:07"
+2080,p_40ef71b0235bc2938,23,NULL,"Anil's home is 1 km from a shop.
+He walked from home to the shop at a constant speed in 10 minutes.
+He stayed at the shop for 5 minutes.
+He walked home at a constant speed in 8 minutes.
+Anil drew this distance-time graph to represent his journey.",1,NULL,"Diagram of a time-distance graph.",217,2,"2025-04-01 19:20:07","2025-04-01 19:20:07"
+2081,p_40ef71b0235bc2938,24,NULL,"Three whole numbers are each rounded to the nearest 10
+The sum of the rounded numbers is 70
+Work out the maximum possible sum for the original three numbers.",0,NULL,NULL,222,2,"2025-04-01 19:20:07","2025-04-01 19:20:07"
+2082,p_40ef71b0235bc2938,25,NULL,"Circle the expression for the range of $n$ consecutive integers.",0,NULL,NULL,253,1,"2025-04-01 19:20:07","2025-04-01 19:20:07"
+2083,p_40ef71b0235bc2938,26,NULL,"Three identical isosceles triangles are joined to make this trapezium.
+Each triangle has base $b$ cm and perpendicular height $h$ cm",1,NULL,"Diagram of trapezium formed from 3 triangles, labeled with base b cm, and height h cm.",254,1,"2025-04-01 19:20:07","2025-04-01 19:20:07"
+2084,p_40ef71b0235bc2938,26,a,"Work out an expression, in terms of $b$ and $h$, for the area of the trapezium.
+Give your answer in its simplest form.",0,NULL,NULL,254,2,"2025-04-01 19:20:07","2025-04-01 19:20:07"
+2085,p_40ef71b0235bc2938,26,b,"This diagram shows the same trapezium.
+$b:s = 2:3$
+Work out an expression, in terms of $b$, for the perimeter of the trapezium.",0,NULL,NULL,224,2,"2025-04-01 19:20:07","2025-04-01 19:20:07"
+2086,p_40ef71b0235bc2938,27,NULL,"Here is a quarter circle of radius $6$ cm",1,NULL,"Diagram of a quarter circle with radius 6 cm.",216,2,"2025-04-01 19:20:07","2025-04-01 19:20:07"
+2087,p_40ef71b0235bc2938,28,a,"Write in standard form $12 500$",0,NULL,NULL,211,1,"2025-04-01 19:20:07","2025-04-01 19:20:07"
+2088,p_40ef71b0235bc2938,28,b,"Write as an ordinary number $3.4 \times 10^{-2}$",0,NULL,NULL,211,1,"2025-04-01 19:20:07","2025-04-01 19:20:07"
+2089,p_40ef71b0235bc2938,29,NULL,"Work out the value of $(\sqrt{3})^{2} \times (\sqrt{2})^{2}$",0,NULL,NULL,252,2,"2025-04-01 19:20:07","2025-04-01 19:20:07"
+2090,p_40ef71b0235bc2938,30,NULL,"The four candidates in an election were A, B, C and D.
+The pie chart shows the proportion of votes for each candidate.",1,NULL,"Pie chart of election results, with sections labeled A, B, C, D and angles labeled 2x, x, 2x+10.",255,4,"2025-04-01 19:20:07","2025-04-01 19:20:07"
+2091,p_40ef71b0235bc2938,31,a,"Factorise $x^{2} - 100$",0,NULL,NULL,256,1,"2025-04-01 19:20:07","2025-04-01 19:20:07"
+2092,p_40ef71b0235bc2938,31,b,"Solve $7x + 6 > 1 + 2x$",0,NULL,NULL,257,2,"2025-04-01 19:20:07","2025-04-01 19:20:07"
+2093,p_c9960cd31bc895190,1,NULL,"Work out $\frac{1}{2} \times 5$
+
+Circle your answer.",0,NULL,NULL,192,1,"2025-04-01 19:20:07","2025-04-01 19:20:07"
+2094,p_c9960cd31bc895190,2,NULL,"Circle the number that is $5$ less than $-2$",0,NULL,NULL,191,1,"2025-04-01 19:20:07","2025-04-01 19:20:07"
+2095,p_c9960cd31bc895190,3,NULL,"Simplify $3 \times a \times 3 \times a$
+
+Circle your answer.",0,NULL,NULL,228,1,"2025-04-01 19:20:07","2025-04-01 19:20:07"
+2096,p_c9960cd31bc895190,4,NULL,"Which shape is similar to shape X? {diagram:1}
+
+Circle the correct letter.",0,NULL,NULL,258,1,"2025-04-01 19:20:07","2025-04-01 19:20:07"
+2097,p_c9960cd31bc895190,5,NULL,"Work out $20\%$ of $14 000$",0,NULL,NULL,204,2,"2025-04-01 19:20:07","2025-04-01 19:20:07"
+2098,p_c9960cd31bc895190,6,a,"Write $0.85$ as a fraction in its simplest form.",0,NULL,NULL,249,2,"2025-04-01 19:20:07","2025-04-01 19:20:07"
+2099,p_c9960cd31bc895190,6,b,"Write $\frac{5}{8}$ as a decimal.",0,NULL,NULL,249,1,"2025-04-01 19:20:07","2025-04-01 19:20:07"
+2100,p_c9960cd31bc895190,7,NULL,"A rectangular carpet measures $8$ m by $6$ m
+
+Part of the carpet is covered by a square rug of length $2$ m {diagram:2}
+
+Show that $\frac{1}{12}$ of the carpet is covered by the rug.",0,NULL,NULL,259,2,"2025-04-01 19:20:07","2025-04-01 19:20:07"
+2101,p_c9960cd31bc895190,8,NULL,"Sam, Carl and Erik share $40$ sweets.
+
+Erik gets the largest share.
+
+What is the smallest possible number of sweets that Erik could get?",0,NULL,NULL,196,2,"2025-04-01 19:20:07","2025-04-01 19:20:07"
+2102,p_c9960cd31bc895190,9,NULL,"The time in Rio is three hours behind London.
+
+The time in New York is five hours behind London.
+
+What is the time in New York when it is $1.00$ am in Rio?",0,NULL,NULL,260,2,"2025-04-01 19:20:07","2025-04-01 19:20:07"
+2103,p_c9960cd31bc895190,10,a,"Here is a list of numbers.
+
+$5$ $6$ $1$ $3$ $5$ $5$ $8$ $4$ $2$ $2$
+
+Work out the median.",0,NULL,NULL,261,2,"2025-04-01 19:20:07","2025-04-01 19:20:07"
+2104,p_c9960cd31bc895190,10,b,"Work out the mean.",0,NULL,NULL,210,2,"2025-04-01 19:20:07","2025-04-01 19:20:07"
+2105,p_c9960cd31bc895190,11,NULL,"$300$ passengers go on a coach trip.
+
+Each coach takes $50$ passengers.
+
+Each passenger pays $£25$
+
+The table shows the costs for the coach company. {table:1}
+
+Each coach travels $200$ miles.
+
+Work out the total profit the company makes from this tri",0,NULL,NULL,260,6,"2025-04-01 19:20:07","2025-04-01 19:20:07"
+2106,p_c9960cd31bc895190,12,a,"Work out $16.4 - 3.92 + 7.8$",0,NULL,NULL,193,2,"2025-04-01 19:20:07","2025-04-01 19:20:07"
+2107,p_c9960cd31bc895190,12,b,"Work out $2843.61 \div 7$",0,NULL,NULL,262,2,"2025-04-01 19:20:07","2025-04-01 19:20:07"
+2108,p_c9960cd31bc895190,13,NULL,"In a game, two fair spinners are spun.
+
+Spinner A {diagram:3}
+
+Spinner B {diagram:4}
+
+If the numbers the arrows land on are different, the score is the higher number.
+If the numbers the arrows land on are the same, the score is $0$",0,NULL,NULL,263,1,"2025-04-01 19:20:08","2025-04-01 19:20:08"
+2109,p_c9960cd31bc895190,13,a,"Complete the table to show the possible scores. {table:2}",0,NULL,NULL,238,2,"2025-04-01 19:20:08","2025-04-01 19:20:08"
+2110,p_c9960cd31bc895190,13,b,"Write down the probability that the score is an odd number.",0,NULL,NULL,198,1,"2025-04-01 19:20:08","2025-04-01 19:20:08"
+2111,p_c9960cd31bc895190,13,c,"The same game is played using spinners C and D.
+
+The numbers on C are shown.
+
+Spinner C {diagram:5}
+
+Spinner D {diagram:6}
+
+The table shows some of the possible scores. {table:3}
+
+Write the missing numbers on spinner D.",0,NULL,NULL,198,2,"2025-04-01 19:20:08","2025-04-01 19:20:08"
+2112,p_c9960cd31bc895190,14,NULL,"$2$ people working at the same rate will take $6$ hours to paint a room.",0,NULL,NULL,264,1,"2025-04-01 19:20:08","2025-04-01 19:20:08"
+2113,p_c9960cd31bc895190,14,a,"Assuming that they all work at this rate,
+how long will it take $3$ people to paint the room?",0,NULL,NULL,264,2,"2025-04-01 19:20:08","2025-04-01 19:20:08"
+2114,p_c9960cd31bc895190,14,b,"In fact, the third person works at a faster rate.
+
+How does this affect the time to paint the room?",0,NULL,NULL,264,1,"2025-04-01 19:20:08","2025-04-01 19:20:08"
+2115,p_c9960cd31bc895190,15,NULL,"$3a + b = 7$ and $6x + 8y = 40$
+
+Show that $9a + 3b$ has a greater value than $3x + 4y$",0,NULL,NULL,215,2,"2025-04-01 19:20:08","2025-04-01 19:20:08"
+2116,p_c9960cd31bc895190,16,NULL,"Circle the point that lies on the line $x-3=0$",0,NULL,NULL,217,1,"2025-04-01 19:20:08","2025-04-01 19:20:08"
+2117,p_c9960cd31bc895190,17,NULL,"$a$ is a negative odd number.
+
+Circle the words that describe $a^2$",0,NULL,NULL,236,1,"2025-04-01 19:20:08","2025-04-01 19:20:08"
+2118,p_c9960cd31bc895190,18,NULL,"Circle the ratio which is the same as the scale
+
+$1$ cm represents $1$ km",0,NULL,NULL,209,1,"2025-04-01 19:20:08","2025-04-01 19:20:08"
+2119,p_c9960cd31bc895190,19,NULL,"Circle the percentage that is closest in value to $\frac{1}{3}$",0,NULL,NULL,250,1,"2025-04-01 19:20:08","2025-04-01 19:20:08"
+2120,p_c9960cd31bc895190,20,NULL,"Work out $\\sqrt{121} - (13 - 5 \\times 2)^{2}$",0,NULL,NULL,227,3,"2025-04-01 19:20:08","2025-04-01 19:20:08"
+2121,p_c9960cd31bc895190,21,a,"Reflect the triangle in the line $x = 2$ {diagram:7}",0,NULL,NULL,265,2,"2025-04-01 19:20:08","2025-04-01 19:20:08"
+2122,p_c9960cd31bc895190,21,b,"Rotate the kite $90^{\\circ}$ anticlockwise about $(0, 0)$ {diagram:8}",0,NULL,NULL,266,2,"2025-04-01 19:20:08","2025-04-01 19:20:08"
+2123,p_c9960cd31bc895190,22,NULL,"Anna plays a computer game.
+
+Each game is a win or a loss.
+
+She wins three quarters of her first $24$ games.
+
+She then wins her next $12$ games.
+
+For all $36$ games, work out the ratio wins : losses
+
+Give your answer in its simplest form.",0,NULL,NULL,196,3,"2025-04-01 19:20:08","2025-04-01 19:20:08"
+2124,p_c9960cd31bc895190,23,NULL,"A solid shape is made from centimetre cubes.
+
+Here are the plan, side elevation and front elevation of the shape. {diagram:9}
+
+Centimetre cubes are added to make this cuboid. {diagram:10}
+
+How many cubes are added?",0,NULL,NULL,205,3,"2025-04-01 19:20:08","2025-04-01 19:20:08"
+2125,p_c9960cd31bc895190,24,NULL,"Divide $405$ in the ratio $4:11$",0,NULL,NULL,196,3,"2025-04-01 19:20:08","2025-04-01 19:20:08"
+2126,p_c9960cd31bc895190,25,NULL,"The height of Zak is $1.86$ metres.
+
+The height of Fred is $1.6$ metres.
+
+Write the height of Zak as a fraction of the height of Fred.
+
+Give your answer in its simplest form.",0,NULL,NULL,249,3,"2025-04-01 19:20:08","2025-04-01 19:20:08"
+2127,p_c9960cd31bc895190,26,NULL,"$A (0, 2)$ and $B (6, 5)$ are points on the straight line $ABCD$. {diagram:11}
+
+$AB = BC = CD$
+
+Work out the coordinates of $D$.",0,NULL,NULL,217,3,"2025-04-01 19:20:08","2025-04-01 19:20:08"
+2128,p_c9960cd31bc895190,27,NULL,"A coin is thrown $50$ times.
+
+It lands on heads $31$ times.",0,NULL,NULL,221,1,"2025-04-01 19:20:08","2025-04-01 19:20:08"
+2129,p_c9960cd31bc895190,27,a,"Write down the relative frequency it lands on heads.",0,NULL,NULL,198,1,"2025-04-01 19:20:08","2025-04-01 19:20:08"
+2130,p_c9960cd31bc895190,27,b,"Raj says,
+
+'The coin is biased towards heads.'
+
+Use the data to give a reason why he might be correct.",0,NULL,NULL,221,1,"2025-04-01 19:20:08","2025-04-01 19:20:08"
+2131,p_c9960cd31bc895190,28,NULL,"Solve $5(x + 3) < 60$",0,NULL,NULL,257,2,"2025-04-01 19:20:08","2025-04-01 19:20:08"
+2132,p_c9960cd31bc895190,29,NULL,"The range of a set of numbers is $15\\frac{1}{4}$
+
+The smallest number is $-2\\frac{7}{8}$
+
+Work out the largest number.",0,NULL,NULL,253,3,"2025-04-01 19:20:08","2025-04-01 19:20:08"
+2133,p_c9960cd31bc895190,30,NULL,"$y$ is inversely proportional to $x$.
+
+Complete the table. {table:4}",0,NULL,NULL,267,2,"2025-04-01 19:20:08","2025-04-01 19:20:08"
+2134,p_c9960cd31bc895190,31,NULL,"A large rectangle is made by joining three identical small rectangles as shown. {diagram:12}
+
+The perimeter of one small rectangle is $15$ cm
+
+Work out the perimeter of the large rectangle.",0,NULL,NULL,224,4,"2025-04-01 19:20:08","2025-04-01 19:20:08"
+2135,p_c9960cd31bc895190,32,NULL,"Put these numbers in order from smallest to largest.
+
+$6 \\times 10^{-4}$   $4 \\times 10^{-2}$  $6 \\times 10^{-4}$   $0.07$",0,NULL,NULL,211,2,"2025-04-01 19:20:08","2025-04-01 19:20:08"
+2136,p_7aa7a63038ad775e8,1,NULL,"Which type of angle is the largest?
+Circle your answer.
+{list:1}",0,NULL,NULL,189,1,"2025-04-01 19:20:08","2025-04-01 19:20:08"
+2137,p_7aa7a63038ad775e8,2,NULL,"Solve {formula:1}
+Circle your answer.
+{list:2}",0,NULL,NULL,190,1,"2025-04-01 19:20:08","2025-04-01 19:20:08"
+2138,p_7aa7a63038ad775e8,3,NULL,"Work out
+{formula:2}
+Circle your answer.
+{list:3}",0,NULL,NULL,191,1,"2025-04-01 19:20:08","2025-04-01 19:20:08"
+2139,p_7aa7a63038ad775e8,4,NULL,"Circle the calculation which works out half of {formula:3}
+{list:4}",0,NULL,NULL,192,1,"2025-04-01 19:20:09","2025-04-01 19:20:09"
+2140,p_7aa7a63038ad775e8,5,a,"Work out
+{formula:4}",0,NULL,NULL,193,2,"2025-04-01 19:20:09","2025-04-01 19:20:09"
+2141,p_7aa7a63038ad775e8,5,b,"Work out
+{formula:5}",0,NULL,NULL,194,1,"2025-04-01 19:20:09","2025-04-01 19:20:09"
+2142,p_7aa7a63038ad775e8,6,NULL,"Five points are plotted on a centimetre grid.
+
+The points are five of the vertices of a hexagon.
+Each side of the hexagon has the same length.
+Work out one possible pair of coordinates of the other vertex.
+Answer __________ (__________ , __________)",0,NULL,NULL,195,2,"2025-04-01 19:20:09","2025-04-01 19:20:09"
+2143,p_7aa7a63038ad775e8,7,NULL,"Amy and Brad each have some money.
+Carly has no money.
+Amy gives £7 to Carly.
+Brad gives £5 to Carly.
+Now they all have the same amount of money.
+How much money did Amy have to begin with?
+Answer £__________",0,NULL,NULL,196,2,"2025-04-01 19:20:09","2025-04-01 19:20:09"
+2144,p_7aa7a63038ad775e8,8,a,"A game is played $50$ times.
+The vertical line chart shows the winning scores.
+{diagram:1}
+Write down the mode.
+Answer __________",0,NULL,NULL,197,1,"2025-04-01 19:20:09","2025-04-01 19:20:09"
+2145,p_7aa7a63038ad775e8,8,b,"The game is played again.
+Use the chart to estimate the probability that the winning score is {formula:6}
+Answer __________",0,NULL,NULL,198,1,"2025-04-01 19:20:09","2025-04-01 19:20:09"
+2146,p_7aa7a63038ad775e8,8,c,"Use the chart to estimate the probability that the winning score is {formula:7} or more.
+Answer __________",0,NULL,NULL,198,2,"2025-04-01 19:20:09","2025-04-01 19:20:09"
+2147,p_7aa7a63038ad775e8,9,a,"Write down all the factors of {formula:8}
+Answer __________",0,NULL,NULL,199,2,"2025-04-01 19:20:09","2025-04-01 19:20:09"
+2148,p_7aa7a63038ad775e8,9,b,"Work out the lowest common multiple (LCM) of {formula:9} and {formula:10}
+Answer __________",0,NULL,NULL,200,2,"2025-04-01 19:20:09","2025-04-01 19:20:09"
+2149,p_7aa7a63038ad775e8,10,a,"Coaches take people to a festival.
+Each coach can take $50$ people.
+From one city there are $820$ people.
+How many coaches are needed?
+Answer __________",0,NULL,NULL,201,3,"2025-04-01 19:20:09","2025-04-01 19:20:09"
+2150,p_7aa7a63038ad775e8,10,b,"From a different city $13$ coaches are needed.
+Each coach costs £$450$ to hire.
+Work out the total cost of hiring $13$ coaches.
+Answer £__________",0,NULL,NULL,202,3,"2025-04-01 19:20:09","2025-04-01 19:20:09"
+2151,p_7aa7a63038ad775e8,11,NULL,"Here is a triangle on a square dotty grid.
+{diagram:2}
+{diagram:3}
+On the grid below, show how you can make a parallelogram with two of these triangles.",0,NULL,NULL,203,1,"2025-04-01 19:20:09","2025-04-01 19:20:09"
+2152,p_7aa7a63038ad775e8,11,NULL,"{diagram:4}
+On the grid below, show how you can make a trapezium with three of these triangles.",0,NULL,NULL,203,1,"2025-04-01 19:20:09","2025-04-01 19:20:09"
+2153,p_7aa7a63038ad775e8,11,NULL,"{diagram:5}
+On the grid below, show how you can make a rhombus with four of these triangles.",0,NULL,NULL,203,1,"2025-04-01 19:20:09","2025-04-01 19:20:09"
+2154,p_7aa7a63038ad775e8,12,NULL,"Work out {formula:11} of {formula:12}
+Answer __________",0,NULL,NULL,204,3,"2025-04-01 19:20:09","2025-04-01 19:20:09"
+2155,p_7aa7a63038ad775e8,13,NULL,"In a game the average score was $50$
+Tom's score was $\\frac{5}{2}$ of the average.
+Circle Tom's score.
+{list:5}",0,NULL,NULL,192,1,"2025-04-01 19:20:09","2025-04-01 19:20:09"
+2156,p_7aa7a63038ad775e8,14,NULL,"Here is a cuboid.
+{diagram:6}
+Work out the volume.
+Answer __________ $\\text{cm}^{3}$",0,NULL,NULL,205,2,"2025-04-01 19:20:09","2025-04-01 19:20:09"
+2157,p_7aa7a63038ad775e8,15,NULL,"Circle the shape that has a uniform cross section.
+{list:6}",0,NULL,NULL,203,1,"2025-04-01 19:20:09","2025-04-01 19:20:09"
+2158,p_7aa7a63038ad775e8,16,a,"Here is a map showing points A and B.
+{diagram:7}
+Kemal wants to measure the bearing of A from B.
+He draws two lines and measures the angle between them.
+{diagram:8}
+Kemal says that the bearing of A from B is $100^{\\circ}$
+Is his method correct?
+Giv",0,NULL,NULL,206,1,"2025-04-01 19:20:09","2025-04-01 19:20:09"
+2159,p_7aa7a63038ad775e8,16,b,"On a different map, the bearing of D from C is $045^{\\circ}$
+Nina says,
+'D is North West of C.'
+Is Nina correct?
+Give a reason for your answer.",0,NULL,NULL,206,1,"2025-04-01 19:20:09","2025-04-01 19:20:09"
+2160,p_7aa7a63038ad775e8,16,c,"This map shows an airport, E, on an island.
+Scale: $1$ cm represents $100$ km
+{diagram:9}
+A plane flies due South from the airport.
+How far does it fly until it reaches the sea?
+Answer __________ km",0,NULL,NULL,207,3,"2025-04-01 19:20:09","2025-04-01 19:20:09"
+2161,p_7aa7a63038ad775e8,17,a,"Simplify fully $56:24$
+Answer __________ : __________",0,NULL,NULL,208,2,"2025-04-01 19:20:09","2025-04-01 19:20:09"
+2162,p_7aa7a63038ad775e8,17,b,"Write the ratio $5:4$ in the form $n:1$
+Answer __________ : __________",0,NULL,NULL,209,1,"2025-04-01 19:20:09","2025-04-01 19:20:09"
+2163,p_7aa7a63038ad775e8,17,c,"Share £$180$ in the ratio $1:9$
+Answer £__________ and £__________",0,NULL,NULL,196,2,"2025-04-01 19:20:09","2025-04-01 19:20:09"
+2164,p_7aa7a63038ad775e8,18,NULL,"Here is some data about the people listening to a radio station one day.
+{table:1}
+Compare the data for people aged $40$ or under with the data for people aged $41$ or over.
+Make three comparisons.",0,NULL,NULL,210,3,"2025-04-01 19:20:09","2025-04-01 19:20:09"
+2165,p_7aa7a63038ad775e8,19,NULL,"You are given that {formula:13}
+{formula:14}",0,NULL,NULL,190,1,"2025-04-01 19:20:09","2025-04-01 19:20:09"
+2166,p_7aa7a63038ad775e8,19,a,"Write down the value of
+{formula:15}",0,NULL,NULL,190,1,"2025-04-01 19:20:09","2025-04-01 19:20:09"
+2167,p_7aa7a63038ad775e8,19,b,"Write down the value of
+{formula:16}",0,NULL,NULL,190,1,"2025-04-01 19:20:09","2025-04-01 19:20:09"
+2168,p_7aa7a63038ad775e8,19,c,"You are given that {formula:17} and {formula:18}
+Write an expression in $a, b$ and $c$ that is equal to {formula:19}
+Give your answer in its simplest form.
+You <b>must</b> show your working.
+Answer __________",0,NULL,NULL,190,2,"2025-04-01 19:20:10","2025-04-01 19:20:10"
+2169,p_7aa7a63038ad775e8,20,a,"Write $0.00097$ in standard form.
+Answer __________",0,NULL,NULL,211,1,"2025-04-01 19:20:10","2025-04-01 19:20:10"
+2170,p_7aa7a63038ad775e8,20,b,"Work out
+$\\frac{3 \\times 10^{5}}{4 \\times 10^{3}}$
+Give your answer as an ordinary number.",0,NULL,NULL,211,2,"2025-04-01 19:20:10","2025-04-01 19:20:10"
+2171,p_7aa7a63038ad775e8,21,a,"Anna plays a game with an ordinary, fair dice.
+If she rolls $1$ she wins.
+If she rolls $2$ or $3$ she loses.
+If she rolls $4, 5$ or $6$ she rolls again.
+When she has to roll again,
+if she rolls an odd number she wins
+if she rolls an even number she l",0,NULL,NULL,212,2,"2025-04-01 19:20:10","2025-04-01 19:20:10"
+2172,p_7aa7a63038ad775e8,21,b,"Is Anna more likely to win or to lose?
+You <b>must</b> work out the probability that she wins.",0,NULL,NULL,212,4,"2025-04-01 19:20:10","2025-04-01 19:20:10"
+2173,p_7aa7a63038ad775e8,22,NULL,"Three friends arrive at a party.
+Their arrival increases the number of people at the party by $20\\%$
+In total, how many people are now at the party?
+Answer __________",0,NULL,NULL,213,2,"2025-04-01 19:20:10","2025-04-01 19:20:10"
+2174,p_7aa7a63038ad775e8,23,NULL,"Work out the value of
+$(3^{12} \\div 3^{5}) \\div (3^{2} \\times 3)$",0,NULL,NULL,214,3,"2025-04-01 19:20:10","2025-04-01 19:20:10"
+2175,p_7aa7a63038ad775e8,24,a,"{formula:20}
+Which of these is equal to $b$?
+Circle your answer.
+{list:7}",0,NULL,NULL,215,1,"2025-04-01 19:20:10","2025-04-01 19:20:10"
+2176,p_7aa7a63038ad775e8,24,b,"{formula:21}
+Which of these is equal to $d$?
+Circle your answer.
+{list:8}",0,NULL,NULL,215,1,"2025-04-01 19:20:10","2025-04-01 19:20:10"
+2177,p_7aa7a63038ad775e8,25,NULL,"A shaded semicircle is inside a circle as shown.
+{diagram:11}
+The radius of the circle is $10$ cm
+The diameter of the semicircle is $8$ cm
+How many times bigger is the unshaded area than the shaded area?
+Answer __________",0,NULL,NULL,216,4,"2025-04-01 19:20:10","2025-04-01 19:20:10"
+2178,p_7aa7a63038ad775e8,26,NULL,"The number of items, $n$, made in $1$ hour by a machine is given by
+{formula:22}
+$t$ is the time in minutes the machine takes to make one item.
+The value of $t$ changes for different types of item.",0,NULL,NULL,217,2,"2025-04-01 19:20:10","2025-04-01 19:20:10"
+2179,p_7aa7a63038ad775e8,26,a,"On the grid below, draw the graph of
+{formula:23} for values of $t$ from $1$ to $4$
+{diagram:12}",0,NULL,NULL,217,2,"2025-04-01 19:20:10","2025-04-01 19:20:10"
+2180,p_7aa7a63038ad775e8,26,b,"The machine takes $3$ minutes $30$ seconds to make one item.
+Use your graph to estimate the value of $n$.
+Answer __________",0,NULL,NULL,217,2,"2025-04-01 19:20:10","2025-04-01 19:20:10"
+2181,p_7aa7a63038ad775e8,27,NULL,"Rearrange
+{formula:24} to make $y$ the subject.
+Answer __________",0,NULL,NULL,215,2,"2025-04-01 19:20:10","2025-04-01 19:20:10"
+2182,p_7aa7a63038ad775e8,28,NULL,"Multiply out and simplify
+{formula:25}
+Answer __________",0,NULL,NULL,218,2,"2025-04-01 19:20:10","2025-04-01 19:20:10"
+2183,p_c089244e1b3863424,1,a,"Here is a number line.
+
+{diagram:1}
+
+What number is at X?
+
+Answer __________",1,NULL,"A number line from 0 to 40, with labelled points 0, 20, X, and 40",207,1,"2025-04-01 19:20:10","2025-04-06 10:46:59"
+2184,p_c089244e1b3863424,1,b,"Here is a different number line.
+{diagram:2}
+What number is at Y?
+Answer __________",1,NULL,"A number line from -6 to 6, with labelled points -6, Y, 0, and 6.",207,1,"2025-04-01 19:20:10","2025-04-01 19:20:10"
+2185,p_c089244e1b3863424,2,NULL,"Match each expression on the left with the simplified expression on the right.
+One has been done for you.
+{diagram:3}",1,NULL,"Matching pairs of expressions.",268,4,"2025-04-01 19:20:10","2025-04-01 19:20:10"
+2186,p_c089244e1b3863424,3,gen,"Here are some shapes.
+Each shape has an area of six square centimetres.
+{diagram:4}",1,NULL,"A grid with shapes A, B, C, D, E, and F, each composed of squares.",259,1,"2025-04-01 19:20:10","2025-04-01 19:20:10"
+2187,p_c089244e1b3863424,3,a,"Which has the bigger perimeter, shape A or shape B?
+You {underline:must} show the lengths of both perimeters.
+Answer __________",0,NULL,NULL,224,2,"2025-04-01 19:20:10","2025-04-01 19:20:10"
+2188,p_c089244e1b3863424,3,b,"Which shape is congruent to shape A?
+Answer __________",0,NULL,NULL,269,1,"2025-04-01 19:20:10","2025-04-01 19:20:10"
+2189,p_c089244e1b3863424,3,c,"Which two shapes fit together to make a rectangle?
+Answer __________ and __________",0,NULL,NULL,203,1,"2025-04-01 19:20:10","2025-04-01 19:20:10"
+2190,p_c089244e1b3863424,3,d,"On this grid draw a reflection of shape C.
+Show your mirror line.
+{diagram:5}",1,NULL,"A grid with shape C drawn on it.",265,2,"2025-04-01 19:20:10","2025-04-01 19:20:10"
+2191,p_c089244e1b3863424,4,gen,"Points P and Q are shown on the grid.
+{diagram:6}",1,NULL,"A coordinate grid with the points P and Q plotted.",195,1,"2025-04-01 19:20:10","2025-04-01 19:20:10"
+2192,p_c089244e1b3863424,4,a,"Write down the coordinates of P.
+Answer (__________, __________)",0,NULL,NULL,195,1,"2025-04-01 19:20:10","2025-04-01 19:20:10"
+2193,p_c089244e1b3863424,4,b,"Angle PQR is a right angle.
+Work out possible coordinates for R.
+Answer (__________, __________)",0,NULL,NULL,195,1,"2025-04-01 19:20:10","2025-04-01 19:20:10"
+2194,p_c089244e1b3863424,5,a,"A shop sells bottles of orange juice.
+Each bottle costs $75$p
+Work out the greatest number of bottles that can be bought with $£5$
+Answer __________",0,NULL,NULL,194,2,"2025-04-01 19:20:10","2025-04-01 19:20:10"
+2195,p_c089244e1b3863424,5,b,"Two shops sell bottles of apple juice.
+{diagram:7}
+At which shop is it cheaper to buy $24$ bottles?
+Show working to support your answer.
+Answer __________",1,NULL,"Image of shop x and shop z bottles.",213,4,"2025-04-01 19:20:10","2025-04-01 19:20:10"
+2196,p_c089244e1b3863424,6,NULL,"A game has four cards labelled A, B, C and D.
+Ellie picks two of the cards at random.
+Complete the list of the six possible pairs of cards she could pick.
+{diagram:8}",1,NULL,"A table with rows to be filled with letter pairs.",238,2,"2025-04-01 19:20:10","2025-04-01 19:20:10"
+2197,p_c089244e1b3863424,7,a,"Complete the boxes using
+two {underline:different} even numbers
+and
+two {underline:different} odd numbers.
+{diagram:9}",1,NULL,"Four boxes with addition and subtraction signs to complete.",193,2,"2025-04-01 19:20:10","2025-04-01 19:20:10"
+2198,p_c089244e1b3863424,7,b,"Complete the boxes using
+a factor of $12$
+and
+a factor of $40$
+{diagram:10}",1,NULL,"Two boxes and minus 30 to complete.",199,2,"2025-04-01 19:20:10","2025-04-01 19:20:10"
+2199,p_c089244e1b3863424,7,c,"Complete the boxes using
+a square number
+and
+a prime number.
+{diagram:11}",1,NULL,"Two boxes to complete with division and subtraction.",252,2,"2025-04-01 19:20:11","2025-04-01 19:20:11"
+2200,p_c089244e1b3863424,8,gen,"$93$ people were asked if they played online games one day.
+The frequency tree shows some information about their answers.
+{diagram:12}",1,NULL,"A partially completed frequency tree for playing online games.",270,1,"2025-04-01 19:20:11","2025-04-01 19:20:11"
+2201,p_c089244e1b3863424,8,a,"$75\\%$ of the people who answered Yes played one game.
+Complete the frequency tree.",0,NULL,NULL,198,3,"2025-04-01 19:20:11","2025-04-01 19:20:11"
+2202,p_c089244e1b3863424,8,b,"One of the $93$ people is chosen at random.
+P(used social media) is more than $0.68$
+What is the {underline:smallest} possible number of people who used social media?
+Answer __________",0,NULL,NULL,198,2,"2025-04-01 19:20:11","2025-04-01 19:20:11"
+2203,p_c089244e1b3863424,9,a,"The cost of a TV streaming service is
+$£6$ per month for the first $4$ months
+then
+$£11$ per month for the rest of the year.
+Work out the {underline:total} cost for the year.
+Answer $£$ __________",0,NULL,NULL,202,2,"2025-04-01 19:20:11","2025-04-01 19:20:11"
+2204,p_c089244e1b3863424,9,b,"A TV series has ten episodes.
+Nine episodes are each $50$ minutes long.
+One episode is $1$ hour $42$ minutes long.
+Work out the total length of the series.
+Give your answer in hours and minutes.
+Answer __________ hours __________ minutes",0,NULL,NULL,193,3,"2025-04-01 19:20:11","2025-04-01 19:20:11"
+2205,p_c089244e1b3863424,10,a,"There are $1020$ books in a box.
+$\\frac{2}{5}$ of the books are blue.
+How many are blue?
+Answer __________",0,NULL,NULL,271,2,"2025-04-01 19:20:11","2025-04-01 19:20:11"
+2206,p_c089244e1b3863424,10,b,"There are green pens and red pens in the box.
+The ratio of green : red is $4:3$
+What fraction of the pens are green?
+Answer __________",0,NULL,NULL,209,1,"2025-04-01 19:20:11","2025-04-01 19:20:11"
+2207,p_c089244e1b3863424,10,c,"There are some calculators in the box.
+$220$ are scientific.
+$30$ are not.
+What percentage of the calculators are scientific?
+Answer __________ %",0,NULL,NULL,272,2,"2025-04-01 19:20:11","2025-04-01 19:20:11"
+2208,p_c089244e1b3863424,11,gen,"Here is a Venn diagram.
+$\\xi = 60$ people
+H = people who own a gaming headset
+W = people who own a smart watch
+{diagram:13}",1,NULL,"A Venn diagram showing the number of people owning different items.",245,1,"2025-04-01 19:20:11","2025-04-01 19:20:11"
+2209,p_c089244e1b3863424,11,a,"$15$ of the people own a smart watch.
+Complete the Venn diagram.",0,NULL,NULL,245,2,"2025-04-01 19:20:11","2025-04-01 19:20:11"
+2210,p_c089244e1b3863424,11,b,"One of the $60$ people is chosen at random.
+What is the probability that they own {underline:both} a gaming headset and a smart watch?
+Answer __________",0,NULL,NULL,273,1,"2025-04-01 19:20:11","2025-04-01 19:20:11"
+2211,p_c089244e1b3863424,11,c,"Marek is going to buy a gaming headset that costs $£35$
+He already has $£19$
+He plans to save the rest in two equal amounts over the next two weeks.
+He uses this method to work out in pounds how much to save each week.
+$35-19 \\div 2$
+What is wrong w",0,NULL,NULL,227,1,"2025-04-01 19:20:11","2025-04-01 19:20:11"
+2212,p_c089244e1b3863424,12,NULL,"Kai says that $3:2$ is an equivalent ratio to $9:6$
+Jo says that $1.5:1$ is an equivalent ratio to $9:6$
+Who is correct?
+Tick {underline:one} box.
+{list:2}
+Give reasons for your answer.",0,NULL,NULL,274,2,"2025-04-01 19:20:11","2025-04-01 19:20:11"
+2213,p_c089244e1b3863424,13,NULL,"$28$ is increased by $25\\%$
+$40$ is decreased by $15\\%$
+Which answer is bigger?
+Show how you decide.
+Answer __________",0,NULL,NULL,213,4,"2025-04-01 19:20:11","2025-04-01 19:20:11"
+2214,p_c089244e1b3863424,14,NULL,"Factorise $12a + 15b$
+Answer __________",0,NULL,NULL,256,1,"2025-04-01 19:20:11","2025-04-01 19:20:11"
+2215,p_c089244e1b3863424,15,NULL,"Write down all the integers that satisfy the inequality
+$-3 < x < 2$
+Answer __________",0,NULL,NULL,275,2,"2025-04-01 19:20:11","2025-04-01 19:20:11"
+2216,p_c089244e1b3863424,16,NULL,"A linear sequence starts
+$7$   $10$   $13$   $16$
+Work out an expression for the nth term of the sequence.
+Answer __________",0,NULL,NULL,242,2,"2025-04-01 19:20:11","2025-04-01 19:20:11"
+2217,p_c089244e1b3863424,17,NULL,"Jess saves $2$p, $5$p and $10$p coins.
+She has
+{list:3}
+Work out total value of $2$p coins : total value of $5$p coins
+Give your answer in its simplest form.
+Answer __________ : __________",0,NULL,NULL,196,4,"2025-04-01 19:20:11","2025-04-01 19:20:11"
+2218,p_c089244e1b3863424,18,gen,"In a game,
+{list:4}
+The score is the dice number substituted into the spinner expression.",0,NULL,NULL,225,1,"2025-04-01 19:20:11","2025-04-01 19:20:11"
+2219,p_c089244e1b3863424,18,a,"Complete the table to show all of the possible scores.
+{table:1}",0,NULL,NULL,276,2,"2025-04-01 19:20:11","2025-04-01 19:20:11"
+2220,p_c089244e1b3863424,18,b,"A player wins the game if their score is $10$ or more.
+Work out the probability that they win the game.
+Answer __________",0,NULL,NULL,198,1,"2025-04-01 19:20:11","2025-04-01 19:20:11"
+2221,p_c089244e1b3863424,18,c,"The game is played $711$ times.
+Estimate the number of games that are won.
+Answer __________",0,NULL,NULL,222,2,"2025-04-01 19:20:11","2025-04-01 19:20:11"
+2222,p_c089244e1b3863424,19,a,"Part of a regular polygon is shown.
+{diagram:14}
+Assume that the polygon is an octagon.
+Work out the size of angle x.
+Answer __________ $^{\\circ}$",1,NULL,"A diagram showing part of a polygon with an exterior angle marked as 'x'.",277,2,"2025-04-01 19:20:11","2025-04-01 19:20:11"
+2223,p_c089244e1b3863424,19,b,"In fact, the polygon has {underline:more} sides than an octagon.
+What does this mean about the size of angle x ?
+Tick {underline:one} box.
+{list:5}",0,NULL,NULL,277,1,"2025-04-01 19:20:11","2025-04-01 19:20:11"
+2224,p_c089244e1b3863424,20,NULL,"Write down the translation vector that maps shape A onto shape B.
+{diagram:15}
+Answer __________",1,NULL,"A coordinate grid with shape A and B plotted.",243,2,"2025-04-01 19:20:11","2025-04-01 19:20:11"
+2225,p_c089244e1b3863424,21,NULL,"Volume of a sphere = $\\frac{4}{3} \\pi r^{3}$
+A bowl is a hemisphere with radius $12$ cm
+{diagram:16}
+Water is poured into the bowl
+at a rate of $325$ cm$^{3}$ per second
+for $8$ seconds.
+Does the water fill more than $70\\%$ of the bowl?
+You {under",1,NULL,"A hemisphere with a radius of 12 cm.",278,4,"2025-04-01 19:20:11","2025-04-01 19:20:11"
+2226,p_c089244e1b3863424,22,NULL,"Show that these two rectangles are similar.
+{diagram:17}",1,NULL,"Two rectangles with different side lengths, labelled with lengths.",258,2,"2025-04-01 19:20:11","2025-04-01 19:20:11"
+2227,p_c089244e1b3863424,23,NULL,"A factory packs x boxes of teabags per hour.
+Each box contains $80$ teabags.
+Show that the factory packs $\\frac{4x}{3}$ teabags per minute.",0,NULL,NULL,220,2,"2025-04-01 19:20:11","2025-04-01 19:20:11"
+2228,p_07f468f6ea7568474,1,NULL,"How many minutes are there in $3\frac{1}{2}$ hours?\nCircle your answer. {list:1}",0,NULL,NULL,219,1,"2025-04-01 19:20:11","2025-04-01 19:20:11"
+2229,p_07f468f6ea7568474,2,NULL,"Work out $\\frac{1}{4} + 0.5$\nCircle your answer. {list:2}",0,NULL,NULL,220,1,"2025-04-01 19:20:11","2025-04-01 19:20:11"
+2230,p_07f468f6ea7568474,3,NULL,"Which of these shapes has the most sides?\nCircle your answer. {list:3}",0,NULL,NULL,203,1,"2025-04-01 19:20:12","2025-04-01 19:20:12"
+2231,p_07f468f6ea7568474,4,NULL,"Solve $x-3=0$\nCircle your answer. {list:4}",0,NULL,NULL,190,1,"2025-04-01 19:20:12","2025-04-01 19:20:12"
+2232,p_07f468f6ea7568474,5,NULL,"Work out $58 \\times 73$",0,NULL,NULL,202,3,"2025-04-01 19:20:12","2025-04-01 19:20:12"
+2233,p_07f468f6ea7568474,6,a,"$500$ people are asked if they drink coffee.\n$\\frac{9}{10}$ say Yes.\n$20\%$ of the people who say Yes drink at least three cups each day.\nComplete the frequency tree. {diagram:1}",1,NULL,"A frequency tree showing the distribution of coffee drinkers among 500 people.",221,4,"2025-04-01 19:20:12","2025-04-01 19:20:12"
+2234,p_07f468f6ea7568474,6,b,"What fraction of the $500$ people drink at least three cups of coffee each day?\nGive your answer in its simplest form.",0,NULL,NULL,198,2,"2025-04-01 19:20:12","2025-04-01 19:20:12"
+2235,p_07f468f6ea7568474,7,NULL,"By rounding each number to the nearest $10$,\nestimate the answer to $\\frac{61 \\times 47}{102}$\nYou <b>must</b> show your working.",0,NULL,NULL,222,2,"2025-04-01 19:20:12","2025-04-01 19:20:12"
+2236,p_07f468f6ea7568474,8,NULL,"Nadia has £$5$ to buy pencils and rulers.\n{table:1}\nShe says,\n\I will buy $15$ pencils.\nThen I will buy as many rulers as possible.\nWith my change I will buy more pencils.\\nHow many pencils and how many rulers does she buy?",0,NULL,NULL,219,6,"2025-04-01 19:20:12","2025-04-01 19:20:12"
+2237,p_07f468f6ea7568474,9,NULL,"Work out $25.68 + 12$",0,NULL,NULL,193,2,"2025-04-01 19:20:12","2025-04-01 19:20:12"
+2238,p_07f468f6ea7568474,10,NULL,"Work out $\\frac{3}{8} \\times 11$\nGive your answer as a mixed number.",0,NULL,NULL,223,2,"2025-04-01 19:20:12","2025-04-01 19:20:12"
+2239,p_07f468f6ea7568474,11,NULL,"A triangle has perimeter $32$ cm\n{diagram:2}\nA square has perimeter $40$ cm\n{diagram:3}\nTwo sides of the shapes are put together to make a pentagon.\n{diagram:4}",1,NULL,"The diagrams show a triangle with perimeter 32 cm, a square with perimeter 40 cm, and a pentagon formed by combining a side of the triangle with a side of the square.",224,4,"2025-04-01 19:20:12","2025-04-01 19:20:12"
+2240,p_07f468f6ea7568474,12,a,"A football team has $P$ points.\n{formula:2}\n$W$ is the number of wins\n$D$ is the number of draws\nA team has $6$ wins and $2$ draws.\nHow many points does the team have?",0,NULL,NULL,225,1,"2025-04-01 19:20:12","2025-04-01 19:20:12"
+2241,p_07f468f6ea7568474,12,b,"After $33$ games a different team has $53$ points.\n$11$ games were draws.\nHow many games has this team lost?",0,NULL,NULL,226,4,"2025-04-01 19:20:12","2025-04-01 19:20:12"
+2242,p_07f468f6ea7568474,13,NULL,"{formula:1}\nMake the following calculations correct.\nUse only the symbols $+$, $-$, $\\times$, $\\div$ and $(~)$",0,NULL,NULL,227,3,"2025-04-01 19:20:12","2025-04-01 19:20:12"
+2243,p_07f468f6ea7568474,14,a,"A number is picked at random from the first four <b>prime</b> numbers.\nA number is picked at random from the first four <b>square</b> numbers.\nThe two numbers are added to get a score.\nComplete the table. {table:2}",0,NULL,NULL,198,4,"2025-04-01 19:20:12","2025-04-01 19:20:12"
+2244,p_07f468f6ea7568474,14,b,"What is the probability that the score is a <b>prime</b> number?",0,NULL,NULL,198,1,"2025-04-01 19:20:12","2025-04-01 19:20:12"
+2245,p_07f468f6ea7568474,15,NULL,"In a school show,\ngirls : boys = $1:1$\ngirls who sing : girls who do not sing = $1:2$\n$8$ girls <b>sing</b> in the show.\nHow many students are in the show altogether?",0,NULL,NULL,196,3,"2025-04-01 19:20:12","2025-04-01 19:20:12"
+2246,p_07f468f6ea7568474,16,a,"$P$ and $Q$ are points on the line {formula:4}\nComplete the coordinates of $P$ and $Q$.",0,NULL,NULL,217,2,"2025-04-01 19:20:12","2025-04-01 19:20:12"
+2247,p_07f468f6ea7568474,16,b,"Draw the line {formula:4} for values of $x$ from $-3$ to $3$\n{diagram:5}",1,NULL,"The diagram shows a coordinate plane with x-axis from -3 to 3 and y-axis. An empty graph has to be plotted to represent the given linear equation.",217,2,"2025-04-01 19:20:12","2025-04-01 19:20:12"
+2248,p_07f468f6ea7568474,17,NULL,"Circle the expression which does <b>not</b> simplify to $y^3$ {list:5}",0,NULL,NULL,228,1,"2025-04-01 19:20:12","2025-04-01 19:20:12"
+2249,p_07f468f6ea7568474,18,NULL,"Write the number six million five thousand two hundred in standard form.",0,NULL,NULL,229,2,"2025-04-01 19:20:12","2025-04-01 19:20:12"
+2250,p_07f468f6ea7568474,19,a,"Use $8$ km/h = $5$ mph to convert $96$ km/h to mph",0,NULL,NULL,230,2,"2025-04-01 19:20:12","2025-04-01 19:20:12"
+2251,p_07f468f6ea7568474,19,b,"$x$ km/h = $y$ mph\nUse $8$ km/h = $5$ mph to write a formula for $y$ in terms of $x$.",0,NULL,NULL,215,2,"2025-04-01 19:20:12","2025-04-01 19:20:12"
+2252,p_07f468f6ea7568474,20,NULL,"Here is a circle touching a square.\n{diagram:6}\nThe area of the square is $64 \\text{ cm}^2$\nWork out the area of the circle.\nGive your answer in terms of $\\pi$.",1,NULL,"The diagram depicts a circle perfectly inscribed within a square.",216,3,"2025-04-01 19:20:12","2025-04-01 19:20:12"
+2253,p_07f468f6ea7568474,21,NULL,"Billy wants to buy these tickets for a show.\n$4$ adult tickets at £$15$ each\n$2$ child tickets at £$10$ each\nA $10\\%$ booking fee is added to the ticket price.\n$3\\%$ is then added for paying by credit card.\nWork out the <b>total</b> charge for",0,NULL,NULL,213,5,"2025-04-01 19:20:12","2025-04-01 19:20:12"
+2254,p_07f468f6ea7568474,22,a,"Density = $\\frac{\\text{mass}}{\\text{volume}}$\nThe mass of solid A is $6$ times the mass of solid B.\nThe volume of solid A is $3$ times the volume of solid B.\nComplete the sentence.\nThe density of solid A is __________ times the density of soli",0,NULL,NULL,219,1,"2025-04-01 19:20:12","2025-04-01 19:20:12"
+2255,p_07f468f6ea7568474,22,b,"Average speed = $\\frac{\\text{distance}}{\\text{time}}$\nIf the distance is halved and the time is doubled, what happens to the average speed?\nCircle your answer. {list:6}",0,NULL,NULL,219,1,"2025-04-01 19:20:12","2025-04-01 19:20:12"
+2256,p_07f468f6ea7568474,23,NULL,"A regular polygon has an exterior angle of $20^{\\circ}$ \nWork out the number of sides of the polygon.",0,NULL,NULL,231,2,"2025-04-01 19:20:12","2025-04-01 19:20:12"
+2257,p_07f468f6ea7568474,24,NULL,"$\\frac{1}{2} \\div \\frac{2}{3} = x : 1$\nCircle the value of $x$: {list:7}",0,NULL,NULL,220,1,"2025-04-01 19:20:12","2025-04-01 19:20:12"
+2258,p_07f468f6ea7568474,25,NULL,"The table shows information about the times for $10$ people to complete a task.\n{table:3}\nThese statements are about the mean and range of the actual times.\nTick the correct box for each statement. {list:8}",0,NULL,NULL,232,4,"2025-04-01 19:20:12","2025-04-01 19:20:12"
+2259,p_07f468f6ea7568474,26,NULL,"Write $36$ as a product of prime factors.\nGive your answer in index form.",0,NULL,NULL,233,3,"2025-04-01 19:20:12","2025-04-01 19:20:12"
+2260,p_07f468f6ea7568474,27,NULL,"Circle the value of $\\cos 90^{\\circ}$ {list:9}",0,NULL,NULL,234,1,"2025-04-01 19:20:13","2025-04-01 19:20:13"
+2261,p_07f468f6ea7568474,28,NULL,"Solve the simultaneous equations.\n$2x + y = 18$\n$x - y = 6$",0,NULL,NULL,235,3,"2025-04-01 19:20:13","2025-04-01 19:20:13"

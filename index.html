@@ -1,0 +1,179 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="Content-Security-Policy" content="script-src 'self'; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com;">
+    <title>Exam Question Editor</title>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <style>
+        body, html {
+            margin: 0;
+            padding: 0;
+            height: 100%;
+            overflow: hidden;
+            font-family: 'Inter', sans-serif;
+        }
+        
+        #launch-screen {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: linear-gradient(135deg, #f5e7d3 0%, #f0e0c9 100%);
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            z-index: 9999;
+            text-align: center;
+            padding: 20px;
+            transition: opacity 0.5s ease-out;
+        }
+        
+        .card {
+            background: linear-gradient(135deg, #FFCC00 0%, #FFD633 100%);
+            border-radius: 16px;
+            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.15);
+            padding: 40px;
+            max-width: 500px;
+            width: 90%;
+            transform: translateY(0);
+            animation: float 6s ease-in-out infinite;
+        }
+        
+        @keyframes float {
+            0% { transform: translateY(0px); }
+            50% { transform: translateY(-10px); }
+            100% { transform: translateY(0px); }
+        }
+        
+        .logo {
+            margin-bottom: 20px;
+            width: 80px;
+            height: 80px;
+            background-color: #ED187D;
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            margin-left: auto;
+            margin-right: auto;
+        }
+        
+        .logo-text {
+            color: white;
+            font-weight: 700;
+            font-size: 36px;
+        }
+        
+        h1 {
+            margin: 0;
+            font-size: 24px;
+            font-weight: 600;
+            margin-bottom: 6px;
+            color: #ED187D;
+        }
+        
+        .welcome-text {
+            font-size: 16px;
+            line-height: 1.6;
+            margin-bottom: 30px;
+            color: #333333;
+        }
+        
+        .highlight {
+            font-weight: 600;
+            color: #ED187D;
+        }
+        
+        .counter {
+            font-size: 40px;
+            font-weight: 700;
+            color: #ED187D;
+            margin: 20px 0;
+            animation: pulse 2s infinite;
+        }
+        
+        @keyframes pulse {
+            0% { transform: scale(1); }
+            50% { transform: scale(1.05); }
+            100% { transform: scale(1); }
+        }
+        
+        #enter-app-button {
+            margin-top: 10px;
+            padding: 14px 28px;
+            font-size: 16px;
+            font-weight: 500;
+            color: white;
+            background-color: #ED187D;
+            border: none;
+            border-radius: 8px;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            box-shadow: 0 4px 6px rgba(237, 24, 125, 0.25);
+        }
+        
+        #enter-app-button:hover {
+            background-color: #D3156E;
+            transform: translateY(-2px);
+            box-shadow: 0 6px 8px rgba(237, 24, 125, 0.3);
+        }
+        
+        #enter-app-button:active {
+            transform: translateY(0);
+            box-shadow: 0 2px 4px rgba(237, 24, 125, 0.2);
+        }
+        
+        .loading-bar {
+            width: 100%;
+            height: 6px;
+            background-color: rgba(255, 255, 255, 0.5);
+            border-radius: 3px;
+            margin-top: 30px;
+            overflow: hidden;
+            position: relative;
+        }
+        
+        .progress {
+            height: 100%;
+            background-color: #ED187D;
+            border-radius: 3px;
+            width: 70%;
+            position: absolute;
+            animation: progress 2s ease-in-out infinite;
+        }
+        
+        @keyframes progress {
+            0% { left: -50%; }
+            100% { left: 100%; }
+        }
+    </style>
+<script defer src="./bundle.js"></script></head>
+<body>
+    <div id="launch-screen">
+        <div class="card">
+            <div class="logo">
+                <div class="logo-text">Q</div>
+            </div>
+            <h1>Exam Question Editor</h1>
+            <div class="welcome-text">
+                Welcome back, <span class="highlight">Findlay</span>!
+            </div>
+            <div class="counter">[number]</div>
+            <div class="welcome-text">
+                unverified questions standing between you and the next evolution in education!
+            </div>
+            <button id="enter-app-button">Enter Application</button>
+            <div class="loading-bar">
+                <div class="progress"></div>
+            </div>
+        </div>
+    </div>
+    <div id="root"></div>
+
+    <script defer src="splash.js"></script>
+</body>
+</html>

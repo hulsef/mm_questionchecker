@@ -1,0 +1,13 @@
+directories:
+  output: dist
+  buildResources: assets
+appId: com.example.examedit
+files:
+  - filter:
+      - build/**/*
+      - node_modules/**/*
+      - main.js
+      - preload.js
+      - index.html
+      - package.json
+electronVersion: 29.4.6
